@@ -1,0 +1,2 @@
+# Harpsolf-font-by-Jawher-Matmati
+A set of two fonts meant to work with Dorico notation software. The harp diagrams in Dorico for the time being display only the anglosaxon nomenclature (A, Bb, C...etc.), these fonts enable the display of solfege note names that the Romance-speaking world uses (France, spain, italy, Belgium...etc.). Harpsolf is based on the Academico font and displays the first letter in uppercase (Ut, Ré...etc.). The lowercase variant displays note names in lowercase (ut, ré...etc.)
